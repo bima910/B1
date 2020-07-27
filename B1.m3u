@@ -3,4 +3,5 @@
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://jitv.jogjaprov.go.id/images/logo_jogja_tv.png" group-title="",JITV
 http://202.169.224.76:1935/tv/jitv/chunklist_w759313912.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TVRIKaltimLogo2019.svg/1200px-TVRIKaltimLogo2019.svg.png" group-title="",TVRI KALTIM
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
