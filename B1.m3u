@@ -8,4 +8,3 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/MXk2Zr8C/10-SBO-TV-SURABAYA.jpg" group-title="USEETV  INDONESIA",SBO TV Surabaya
 http://122.248.43.138:1935/ch13/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.bbstv.id/wp-content/uploads/2019/07/Logo_bbstv-107x42.png" group-title="INDONESIA",BBS TV SURABAYA
-https://dcunilive94-lh.akamaihd.net/i/dclive_1@839502/master.m3u8?hdnea=st=1595496987~exp=1595497387~acl=/i/dclive_1@839502*~hmac=6ed0ac47991e98a769282441cd8c9eec470d379c9f565ecccc6598f209fe5851
