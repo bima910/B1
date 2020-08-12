@@ -7,4 +7,5 @@ http://202.169.224.76:1935/tv/jitv/chunklist_w759313912.m3u8
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/MXk2Zr8C/10-SBO-TV-SURABAYA.jpg" group-title="USEETV  INDONESIA",SBO TV Surabaya
 http://122.248.43.138:1935/ch13/myStream/live.m3u8
-#EXTINF:-1 tvg-logo="https://www.bbstv.id/wp-content/uploads/2019/07/Logo_bbstv-107x42.png" group-title="INDONESIA",BBS TV SURABAYA
+#EXTINF:-1 tvg-logo="https://www.bbstv.id/wp-content/uploads/2019/07/Logo_bbstv-107x42.png" group-title="INDONESIA",AREK TV
+http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
